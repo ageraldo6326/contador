@@ -1,0 +1,40 @@
+.contador{
+    font-size: 100px;
+    font-weight: bold;
+    background-color: white;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    border: 1px solid black;
+    padding: 30px;
+    margin-top: 50px
+}
+
+.click-add {
+    width: 200px;
+    height: 100px;
+    font-size: 40px;
+    font-weight: bold;
+    background: #0b0b51;
+    color: white;
+    border-radius: 15px;
+    margin: 10px;
+}
+
+.click-reset {
+    width: 200px;
+    height: 100px;
+    font-size: 40px;
+    font-weight: bold;
+    background: #d61414;
+    color: white;
+    border-radius: 15px;
+    margin: 10px;
+}
+
+.contenedor {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
